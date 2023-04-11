@@ -13,7 +13,7 @@
    
    git commit -m "first commit" //把文件提交到仓库
    
-   git remote add origin https://github.com/h-yii/NKU-Digital-Signal-Processing //关联远程仓库
+   git remote add origin https://github.com/h-yii/git-method.git //关联远程仓库
    
    git push -u origin master //把本地库的所有内容推送到远程库上
    ```
